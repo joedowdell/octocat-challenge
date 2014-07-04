@@ -1,1 +1,7 @@
-Explain what git clone does, in your own words
+Git clone command copies(clones) an existing repo into a new directory.
+
+For example you want to clone a repo from Github onto you local machine you would use the git clone command like this
+
+		$ git clone https://github.com/joedowdell/octocat-challenge.git
+
+Making sure you are within the directory you want to copy it to.
