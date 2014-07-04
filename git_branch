@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+Git branch in git represents a seperate copy of the same directory on a seperate 'branch' it is within the same directory but changes can be made to a 'branch' without making changes to the primary(master) branch
+		
