@@ -1,1 +1,13 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+"upstream" command in git directs where you are pushing your repo. 
+
+For example:
+
+		$	git push origin master
+
+Would push master branch to the origin on github
+
+		$ git push heroku master
+
+Where as the above would push the master branch for deployment onto heroku.
